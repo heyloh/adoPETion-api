@@ -94,6 +94,6 @@
   },
   "include": [
     "src/**/*.ts",
-    "test/**/*.spec.ts"
+    "src/**/*.spec.ts"
   ]
 }
